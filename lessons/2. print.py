@@ -1,8 +1,9 @@
-# You ca use variables to save something for later usage
+# You can use variables to save something for later usage
 name_of_the_game = "Valorant"
-# name_of_the_game is a variable
+# name_of_the_game is a variable and saves the string "Valorant"
 
-# Variables ca be printed too
+
+# Variables can be printed too
 print("Today we lean about coding and")
 print(name_of_the_game)
 
