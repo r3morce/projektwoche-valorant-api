@@ -1,6 +1,4 @@
 # In lists you can store information in an order
-from typing import List
-
 
 ranks = ["Radiant", "Immortal", "Diamond",
          "Platinum", "Gold", "Silver", "Bronze", "Iron"]

@@ -22,4 +22,4 @@ data = response["data"]
 # TODO: Use the pretty print command 'pp.pprint()' to see a better readable output
 
 
-# TODO: Print the value of the key 'displayName' from the dictionary data
+# TODO: Print the value of the key 'displayName' from the dictionary 'data'
