@@ -1,29 +1,31 @@
-# To hold data which belongs together you can use a dictionary
+# To hold information which belongs together you can use a dictionary
 # A dictionary is build like this
-dict = {
+this_is_a__dictionary = {
     "key": "value"
 }
-
-# You can print it too
-print("dict:", dict)
 
 # You could store a persons data in a dictionary
 random_person = {
     "name": "John Doe",
     "age": 45
 }
-print(random_person)
 
-# TODO: Fill a dictionary with your data
+# You can print dictionaries too
+print("2)", random_person)
+
+# If you are interested in just a specifiy value, you can access this value like this
+print("3)", random_person["name"])
+
+# TODO: Fill the dictionary 'you' with your data
 you = {
 
 
 }
 
-# If you are interested in just a specifiy value, you can read it like this
-print(random_person["name"])
+# TODO: Print the whole 'you' dictionary
 
-# TODO: Read your name from the dictionary and print it
+
+# TODO: From the 'you' dictionary, save your name in a variable called 'my_name' and print it
 
 
 # Bonus: Write additional data in your dictionary and print it
