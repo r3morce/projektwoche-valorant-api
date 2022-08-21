@@ -1,4 +1,4 @@
-# Now we get data from a valorant api and have a look into it
+# Now we get data from a valorant API and have a look into it
 
 # Ignore the following code. Start at line 18
 
@@ -17,9 +17,12 @@ data = response["data"]
 
 # We have data from a valorant API stored in a variable called 'data'
 # TODO: Let's have a look into it, print 'data'
+# TODO: Can you find display name?
 
 
-# TODO: Use the pretty print command 'pp.pprint()' to see a better readable output
+# TODO: Use the pretty print command 'pp.pprint()' to see a better readable output.
+# TODO: Can you find display name?
 
 
 # TODO: Print the value of the key 'displayName' from the dictionary 'data'
+# Hint: You did this with your name the lesson before

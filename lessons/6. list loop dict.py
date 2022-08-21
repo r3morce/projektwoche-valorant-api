@@ -10,7 +10,8 @@ persons = [
     }
 ]
 
-# TODO: Print the whole dictionary 'persons'
+# TODO: Add one person to the 'persons' above and print the whole dictionary 'persons'
 
-# TODO: Print the name of each person
-# Hint: Use the for loop from the lesson before
+
+# TODO: Use a for-loop to print each persons name
+# Hint: We did a similar thing in the lesson before

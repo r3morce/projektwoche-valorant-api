@@ -11,10 +11,10 @@ random_person = {
 }
 
 # You can print dictionaries too
-print("2)", random_person)
+print("1)", random_person)
 
 # If you are interested in just a specifiy value, you can access this value like this
-print("3)", random_person["name"])
+print("2)", random_person["name"])
 
 # TODO: Fill the dictionary 'you' with your data
 you = {

@@ -7,7 +7,7 @@ print("Hello World")
 
 # Lines which start with # are comments and ignored while executing a script like this
 
-# TODO: Write your own name in the line below and print it
+# TODO: Uncomment the line below and write your own name in it
 print("Hello ")
 
 # All done? Good job, you just wrote your first code.
