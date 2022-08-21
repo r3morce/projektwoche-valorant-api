@@ -16,4 +16,5 @@ print(your_name)
 print("1)", "Today we lean about coding and", name_of_the_game)
 print("2)", "Today we lean about coding and", name_of_the_game, "and stuff")
 
-# TODO: print your name and name_of_the_game in one line. Hint: Use the print command from line 16 and modify it
+# TODO: print your name and name_of_the_game in one line.
+# Hint: Use the print command from line 16 and modify it

@@ -1,4 +1,6 @@
-# Ignore the following code. Start at line 16
+# Now we get data from a valorant api and have a look into it
+
+# Ignore the following code. Start at line 18
 
 import requests
 import json
