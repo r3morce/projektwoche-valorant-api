@@ -23,15 +23,19 @@ data = response["data"]
 
 for episode in data:
     # TODO: Print the value  of key 'assetObjectName' from each 'episode'
+    # Hint: We did this in lesson 6. list loop dict
     print("")
 
 # The command 'pop' extracts the last episode of the list. Let's store it in a variable
 current_episode = data.pop()
 
-# TODO: Pretty print 'current_episode' and find out how tier information is structured
+# TODO: Pretty print 'current_episode' and find out where tier information is located
 pp.pprint(current_episode)
+
+# TODO: save tiers in a variable
+# Hint: We did this is in 3. dictionary
 
 
 # TODO Print the name of each tier with a for-loop
-# Hint: Use a for-loop like above
 # Hint: We printed values from dictionaries in 3. dictionary
+

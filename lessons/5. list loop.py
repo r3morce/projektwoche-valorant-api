@@ -3,11 +3,13 @@
 ranks = ["Radiant", "Immortal", "Diamond",
          "Platinum", "Gold", "Silver", "Bronze", "Iron"]
 
-# With a loop you can iterate through the list
+# TODO: Print the list
+
+# With a loop you can iterate through the list and access each element
 for rank in ranks:
     print(rank)
 
-# You can also manipulate the output
+# You can use this to manipulate the output
 for rank in ranks:
     print(rank.lower())
 
@@ -16,4 +18,8 @@ for rank in ranks:
 # You can even add new elements to a list
 ranks.append("Wood")
 
-# TODO: Append another element to the 'ranks' and print the whole list
+# TODO: Append another element to the 'ranks' and print the list
+
+# TODO: Iterate through the list and print each item lower cased with an hashtag #
+# Hint: There should be no white space between the # and the rank
+
