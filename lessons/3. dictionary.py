@@ -25,7 +25,10 @@ you = {
 # TODO: Print the whole 'you' dictionary
 
 
-# TODO: From the 'you' dictionary, save your name in a variable called 'my_name' and print it
+# TODO: From the 'you' dictionary, print only one value
+
+
+# TODO: From the 'you' dictionary, save one value in a variable and print this variable
 
 
 # Bonus: Write additional data in your dictionary and print it

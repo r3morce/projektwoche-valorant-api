@@ -16,6 +16,7 @@ response = json.loads(response.text)
 data = response["data"]
 
 # We have data from a valorant API stored in a variable called 'data'
+# The structure of data is called json and can be used like a dictionary
 # TODO: Let's have a look into it, print 'data'
 # TODO: Can you find display name?
 
