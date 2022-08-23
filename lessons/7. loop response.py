@@ -18,8 +18,8 @@ data = response["data"]
 # TODO: Let's have look into the dictionary 'data', pretty print it
 # Hint: We did pretty printing in lesson 4
 
-# It seems like the tier lists are nested into episodes
 
+# It seems like the tier lists are nested into episodes
 
 for episode in data:
     # TODO: Print the value  of key 'assetObjectName' from each 'episode'
@@ -28,8 +28,10 @@ for episode in data:
 # The command 'pop' extracts the last episode of the list. Let's store it in a variable
 current_episode = data.pop()
 
-# We want information about each tier, where are they located?
-# Hint: You can use pretty print to have a look into 'current_episode'
+# TODO: Pretty print 'current_episode' and find out how tier information is structured
+pp.pprint(current_episode)
 
 
 # TODO Print the name of each tier with a for-loop
+# Hint: Use a for-loop like above
+# Hint: We printed values from dictionaries in 3. dictionary
