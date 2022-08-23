@@ -30,5 +30,7 @@ you = {
 
 # TODO: From the 'you' dictionary, save one value in a variable and print this variable
 
+# After a dictionary is created, you can add new values like this
+you["status"] = "pupil"
 
-# Bonus: Write additional data in your dictionary and print it
+# TODO: Add another value to 'you' and print the whole dictionary

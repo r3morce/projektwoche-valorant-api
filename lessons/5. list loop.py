@@ -12,3 +12,8 @@ for rank in ranks:
     print(rank.lower())
 
 # TODO: Loop through the list and print each rank upper case
+
+# You can even add new elements to a list
+ranks.append("Wood")
+
+# TODO: Append another element to the 'ranks' and print the whole list
