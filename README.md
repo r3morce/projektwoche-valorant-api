@@ -9,10 +9,13 @@ Contents are:
 - GET requests
 - data processing
 
-To start, clone this repo and start at [Lesson 1. Hello World](lessons/1.%20hello%20world.py)
+To start, clone this repo, open the folder 'lessons' and start at [Lesson 1. Hello World](lessons/1.%20hello%20world.py)
 
 ## Prerequisites
 
 - Install [Python](https://www.python.org/downloads/)
+- Install [Pip](https://www.liquidweb.com/kb/install-pip-windows/)
+- Install Python pprint Module: `pip install pprintpp`
+- Install Python requests Module: `pip install requests`
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Within Visual Studio Code install the Python extension (Extension Id: ms-python.python)
