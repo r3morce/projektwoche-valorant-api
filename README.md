@@ -8,8 +8,12 @@ Contents are:
 - formatting
 - GET requests
 - data processing
-
-To start, clone this repo, open the folder 'lessons' and start at [Lesson 1. Hello World](lessons/1.%20hello%20world.py)
+## How to start
+- Download this repo
+- Unpack it
+- Start Visual Studio Code (VSC)
+- Within VSC open the folder 'lessons'
+- Start at lesson '01. print'
 
 ## Prerequisites
 
