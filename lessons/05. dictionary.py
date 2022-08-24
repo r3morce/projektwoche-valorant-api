@@ -1,10 +1,7 @@
-# To hold information which belongs together you can use a dictionary
+# Dictionaries are used to store data values in key:value pairs.
+# Dictionaries are used to hold information which belongs together
 # A dictionary is build like this
-this_is_a__dictionary = {
-    "key": "value"
-}
 
-# You could store a persons data in a dictionary
 random_person = {
     "name": "John Doe",
     "age": 45
@@ -30,7 +27,11 @@ you = {
 
 # TODO: From the 'you' dictionary, save one value in a variable and print this variable
 
+
 # After a dictionary is created, you can add new values like this
 you["status"] = "pupil"
 
 # TODO: Add another value to 'you' and print the whole dictionary
+
+
+# TODO: From the 'you' dictionary, save your name in a variable and print it upper cased

@@ -6,7 +6,7 @@ import requests
 import json
 import pprint
 
-pp = pprint.PrettyPrinter(sort_dicts=False)
+pp = pprint.PrettyPrinter(sort_dicts=False, depth=2)
 
 url = "https://valorant-api.com/v1/agents/dade69b4-4f5a-8528-247b-219e5a1facd6"
 
@@ -16,12 +16,17 @@ response = json.loads(response.text)
 data = response["data"]
 
 # We have data from a valorant API stored in a variable called 'data'
-# The structure of data is called json and can be used like a dictionary
+# The structure of 'data' is called JSON and can be used like a dictionary
 # TODO: Let's have a look into it, print 'data'
+
+
 # TODO: Can you find display name?
 
 
-# TODO: Use the pretty print command 'pp.pprint()' to see a better readable output.
+# There is another function like print, called pretty print which makes the output more readable
+# TODO: Use the command 'pp.pprint(data)' to see a better readable output.
+pp.pprint(data)
+
 # TODO: Can you find display name?
 
 

@@ -1,11 +1,10 @@
-# There is another way to put text together which can come in handy
+# There is another way to put text together which can come in handy, the function 'format'
 
-# This file doesn't know about name_of_the_game yet, so we write is again
-name_of_the_game = "Valorant"
+# TODO: Create and fill a variable 'name_of_the_game'
 
-# You can put placeholder in strings (text) and fill them with function format
-print("1)", "Today we lean about {} and coding".format(name_of_the_game))
+# You can put placeholder in strings and fill them with function format
 # {} is a placeholder and is filled with the variable 'name_of_the_game'
+print("1)", "Today we lean about {} and coding".format(name_of_the_game))
 
 # TODO: Save your name again in a variable called 'your_name'
 
